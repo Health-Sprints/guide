@@ -21,11 +21,13 @@ https://github.com/Health-Sprints/guide/issues
 
 ## Chat
 
+Public room
 
+https://matrix.to/#/#rapid-publishing-tech:matrix.org
 
 ## Author
 
-Ask to author on chat and we'll add you.
+Ask to author on chat and we'll add you to the authoring website below:
 
 https://write.healthsprints.org/books/ 
 
