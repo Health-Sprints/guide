@@ -1,4 +1,4 @@
-# Publishing Guide
+# Rapid Publishing Guide
 
   - Fidus Writer
   - Vivliostyle
